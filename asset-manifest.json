@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Agrifats-Project/static/css/main.85c61e58.css",
+    "main.js": "/Agrifats-Project/static/js/main.8b9e9e13.js",
+    "static/js/787.cd9cbb04.chunk.js": "/Agrifats-Project/static/js/787.cd9cbb04.chunk.js",
+    "static/media/FrontpageIrrigation.jpg": "/Agrifats-Project/static/media/FrontpageIrrigation.a06d7371d264ba2725ce.jpg",
+    "static/media/bg6.jpg": "/Agrifats-Project/static/media/bg6.019ef4a51b89654b1f3e.jpg",
+    "static/media/pesticides.jpg": "/Agrifats-Project/static/media/pesticides.31465b4228162c3c780c.jpg",
+    "static/media/image2.jpg": "/Agrifats-Project/static/media/image2.63958a9af8d426753450.jpg",
+    "static/media/insec.jpg": "/Agrifats-Project/static/media/insec.7ed0f4494e8b16617931.jpg",
+    "static/media/rodent.jpg": "/Agrifats-Project/static/media/rodent.1f36024f0c384bc856f2.jpg",
+    "static/media/fungi.jpg": "/Agrifats-Project/static/media/fungi.ee818835fa5cf84f72de.jpg",
+    "static/media/Signup.jpg": "/Agrifats-Project/static/media/Signup.3e2199e92effb85831af.jpg",
+    "static/media/herbs.jpg": "/Agrifats-Project/static/media/herbs.86628fdc7d0045045b19.jpg",
+    "static/media/larva.jpg": "/Agrifats-Project/static/media/larva.0da47933624abdd9f266.jpg",
+    "static/media/harvesting.jpg": "/Agrifats-Project/static/media/harvesting.218e364f999752c4c2c8.jpg",
+    "static/media/Ripper.jpg": "/Agrifats-Project/static/media/Ripper.32d8f9f8095020334e1a.jpg",
+    "static/media/rotarytiller.jpg": "/Agrifats-Project/static/media/rotarytiller.83517c1640ce6ad48973.jpg",
+    "static/media/irrigationlogo.jpg": "/Agrifats-Project/static/media/irrigationlogo.f214849480d00a4d904f.jpg",
+    "static/media/LLLSli.jpg": "/Agrifats-Project/static/media/LLLSli.4cfeb162fca23762df97.jpg",
+    "static/media/ETLOGO.jpg": "/Agrifats-Project/static/media/ETLOGO.c6280b386e1e048bf710.jpg",
+    "static/media/GovtYojana.jpg": "/Agrifats-Project/static/media/GovtYojana.47da2966887b30abbb4c.jpg",
+    "static/media/AgriCs.jpg": "/Agrifats-Project/static/media/AgriCs.802e4b3b7cdbf9b53e16.jpg",
+    "static/media/powerweed.jpg": "/Agrifats-Project/static/media/powerweed.965a10d2ba4bb77f8ec4.jpg",
+    "static/media/coldbg.jpg": "/Agrifats-Project/static/media/coldbg.184d5ff70820719603f0.jpg",
+    "static/media/calci.jpg": "/Agrifats-Project/static/media/calci.0fbb36559758df2d792f.jpg",
+    "static/media/BuySell.jpg": "/Agrifats-Project/static/media/BuySell.3d103d79e4133fc38e54.jpg",
+    "static/media/weatherlogo.jpg": "/Agrifats-Project/static/media/weatherlogo.ab00b31382e0f9f2d9a2.jpg",
+    "index.html": "/Agrifats-Project/index.html",
+    "main.85c61e58.css.map": "/Agrifats-Project/static/css/main.85c61e58.css.map",
+    "main.8b9e9e13.js.map": "/Agrifats-Project/static/js/main.8b9e9e13.js.map",
+    "787.cd9cbb04.chunk.js.map": "/Agrifats-Project/static/js/787.cd9cbb04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c61e58.css",
+    "static/js/main.8b9e9e13.js"
+  ]
+}
