@@ -263,21 +263,17 @@ export class BuyAndSellTools extends Component {
                 }
                 {this.state.isfetchlanddata ? (
                     <>
-                        <Container className="mt-3 text-center">
-                            <h3 className="text-center mt-3">RAJASTHAN IT</h3>
-                            <h5 className="text-cente">HACKATHON RANKS (4 TO 50)</h5>
-
-                        </Container>
+                        
                         <Container>
                             <Table bordered>
                                 <thead>
                                     <tr>
-                                        <th className="text-center">S.NO</th>
-                                        <th className="text-center">Team Name</th>
-                                        <th className="text-center">Team Leader</th>
-                                        <th className="text-center">Domain</th>
-                                        <th className="text-center">Place</th>
-                                        <th className="text-center">Rank</th>
+                                        <th className="text-center"></th>
+                                        <th className="text-center"></th>
+                                        <th className="text-center"></th>
+                                        <th className="text-center"></th>
+                                        <th className="text-center"></th>
+                                        <th className="text-center"></th>
                                       
                                     </tr>
                                 </thead>
