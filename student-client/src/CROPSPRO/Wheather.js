@@ -8,7 +8,7 @@ export function Wheather() {
    
    useEffect(() => {
       const fetchApi = async () => {
-         const url = `https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=b6e9743909314bc1020b3091b11e07c3`
+         const url = `https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=d805962908cd40d7b8444253230605`
          const response = await fetch(url);
          const data = await response.json();
          setCity(data.main)
